@@ -1,0 +1,14 @@
+/Users/dasta/Module6_Homework/bin/Debug/net10.0/Module6_Homework
+/Users/dasta/Module6_Homework/bin/Debug/net10.0/Module6_Homework.deps.json
+/Users/dasta/Module6_Homework/bin/Debug/net10.0/Module6_Homework.runtimeconfig.json
+/Users/dasta/Module6_Homework/bin/Debug/net10.0/Module6_Homework.dll
+/Users/dasta/Module6_Homework/bin/Debug/net10.0/Module6_Homework.pdb
+/Users/dasta/Module6_Homework/obj/Debug/net10.0/Module6_Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dasta/Module6_Homework/obj/Debug/net10.0/Module6_Homework.AssemblyInfoInputs.cache
+/Users/dasta/Module6_Homework/obj/Debug/net10.0/Module6_Homework.AssemblyInfo.cs
+/Users/dasta/Module6_Homework/obj/Debug/net10.0/Module6_Homework.csproj.CoreCompileInputs.cache
+/Users/dasta/Module6_Homework/obj/Debug/net10.0/Module6_Homework.dll
+/Users/dasta/Module6_Homework/obj/Debug/net10.0/refint/Module6_Homework.dll
+/Users/dasta/Module6_Homework/obj/Debug/net10.0/Module6_Homework.pdb
+/Users/dasta/Module6_Homework/obj/Debug/net10.0/Module6_Homework.genruntimeconfig.cache
+/Users/dasta/Module6_Homework/obj/Debug/net10.0/ref/Module6_Homework.dll
